@@ -34,7 +34,7 @@ export default function Home() {
         </div>
         <div className={styles.description}>
           <p>
-            He's the protector of web development law and living symbol of
+            He&apos;s the protector of web development law and living symbol of
             proper web element usage.
           </p>
         </div>
@@ -64,12 +64,13 @@ export default function Home() {
         <div className={styles.description}>
           <p>
             Often he sees links dressed as buttons with attributes and styles
-            they shouldn't have.
+            they shouldn&apos;t have.
           </p>
         </div>
         <div className={styles.description}>
           <p>
-            It's as if a bunny were pretending to be a T-Rex, a confusing sight!
+            It&apos;s as if a bunny were pretending to be a T-Rex, a confusing
+            sight!
           </p>
         </div>
 
